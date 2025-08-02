@@ -11,6 +11,9 @@ https://github.com/probberechts/soccerdata?tab=readme-ov-files
 
 
 # Data Source
+# Premier League
+https://www.football-data.co.uk/englandm.php
+
 ## Football DataSet +96k matches (18 leagues) from 2002 - 2022
 https://www.kaggle.com/datasets/bastekforever/complete-football-data-89000-matches-18-leagues
 
